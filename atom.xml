@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>薛飞的博客</title>
+  <subtitle>喝杯白酒，交个朋友</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-29T13:58:40.324Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>薛飞</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Say goodbye to the past</title>
+    <link href="http://yoursite.com/2017/04/29/firstblog/"/>
+    <id>http://yoursite.com/2017/04/29/firstblog/</id>
+    <published>2017-04-29T08:33:32.000Z</published>
+    <updated>2017-04-29T13:58:40.324Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2017/04/29/firstblog/1.jpg" width="400px" height="380px"></p>
+<p>今天是5.1的前两天<br>在查看了各大网站的攻略，以及被杀死了N多脑细胞后<br>终于，我搭建好了自己的博客<br>怎么说呢，在心情有些许激动的情况下<br>我真想由衷的说一句<br>NMP啊，这么简单的东西，你教程非得说出一朵花来啊</p>
+<p>好了，整理一下心情<br>放一首安静的音乐<br>说一说藏在心里想说却一直没说的话<br>时间的沙漏已被倒置<br>沙沙，沙沙<br>眼前的景象变的扭曲<br>耳旁的声音开始模糊<br>。。。</p>
+<a id="more"></a>
+<p>3年前<br>跟随着喧闹而又欢快的人群<br>一个满怀激动心情的我，踏入了西电的校园<br>这里，教学楼别具一格，树木尤为清脆，空气格外清新<br>仿佛就是处在这座西安古城中的一片世外桃源<br>这里一切的一切都在诉说着她的与众不同<br>我的心情也开始由激动转为了兴奋<br>脑海中似乎已经看到了我那美好的未来<br>每天开开心心的上课<br>认识一些志同道合的朋友<br>完成一些之前一直想完成的梦想<br>。。。</p>
+<p>日子开始一天一天的过<br>时间也在滴答滴答的走<br>可是<br>当初的我所看到的那个美好的未来<br>却不知在什么时候<br>早已从我身边匆匆而过了<br>难道这世间真有传说中的上帝吗？<br>是他偷偷的篡改了我的未来？<br>还是<br>。。。</p>
+<p>我变了<br>对！是我变了<br>不知从何时起<br>我变的不再对大学生活充满激情<br>也开始变的对学习充满了厌恶<br>我开始懒惰，开始贪玩<br>开始沉迷于召唤师峡谷的厮杀<br>也开始沉迷于DNF的华丽格斗<br>在一次次拆掉敌方水晶结束战斗之后<br>在一次次杀掉Boss捡的装备之后<br>我好像并没有开心过<br>也不知，为什么</p>
+<p>大三的钟声悠然响起<br>诉说着所剩无几的大学时光<br>一个藏在我内心深处的声音开始呼唤着我<br>不能再碌碌无为了<br>当我回过头来看着自己走过的路<br>仿佛是那么的不堪，那么的无趣<br>在这两年的日子里，我收获了什么呢？<br>是熟练精通的编程知识？<br>还是无话不谈的知心朋友？<br>又或者是精湛高超的游戏技巧呢？<br>好像都没有吧<br>留在我回忆里的好像只有一天天虚度光阴后的无聊</p>
+<p>是时候努力了啊!<br>那个懒惰，贪玩的自己啊<br>对不起<br>我不能再带着你一起旅行了<br>前面的道路充满着热血与汗水<br>不适合你<br>你的家园应该建立在这条通往黑暗的道路上<br>你在这里才会开心快乐<br>Say goodbye to the past<br>Everything is gonna be alright</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/04/29/firstblog/1.jpg&quot; width=&quot;400px&quot; height=&quot;380px&quot;&gt;&lt;/p&gt;
+&lt;p&gt;今天是5.1的前两天&lt;br&gt;在查看了各大网站的攻略，以及被杀死了N多脑细胞后&lt;br&gt;终于，我搭建好了自己的博客&lt;br&gt;怎么说呢，在心情有些许激动的情况下&lt;br&gt;我真想由衷的说一句&lt;br&gt;NMP啊，这么简单的东西，你教程非得说出一朵花来啊&lt;/p&gt;
+&lt;p&gt;好了，整理一下心情&lt;br&gt;放一首安静的音乐&lt;br&gt;说一说藏在心里想说却一直没说的话&lt;br&gt;时间的沙漏已被倒置&lt;br&gt;沙沙，沙沙&lt;br&gt;眼前的景象变的扭曲&lt;br&gt;耳旁的声音开始模糊&lt;br&gt;。。。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="感悟" scheme="http://yoursite.com/tags/%E6%84%9F%E6%82%9F/"/>
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="人生" scheme="http://yoursite.com/tags/%E4%BA%BA%E7%94%9F/"/>
+    
+  </entry>
+  
+</feed>
